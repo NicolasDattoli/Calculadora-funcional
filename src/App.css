@@ -10,19 +10,6 @@
   align-items: center;
 }
 
-.freecodecamp-logo-contenedor{
-  width: 100%;
-  height: 50px;
-  margin: 0px;
-  display: flex;
-  align-items: center;
-  justify-content: center;
-}
-
-.freecodecamp-logo{
-  height: 60px;  
-}
-
 .contenedor-calculadora{
   width: 400px;
   height: 600px;
